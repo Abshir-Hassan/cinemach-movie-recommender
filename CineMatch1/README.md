@@ -1,5 +1,4 @@
-# 🎬 CineMatch — Netflix Tarzı Film Öneri Sistemi
-
+# 🎬 CineMatch — Kişiselleştirilmiş Film Öneri Sistemi
 MovieLens ml-32m (32 milyon puanlama) ile eğitilmiş KNN tabanlı film öneri sistemi.
 
 ## 🚀 Kurulum (3 adım)
